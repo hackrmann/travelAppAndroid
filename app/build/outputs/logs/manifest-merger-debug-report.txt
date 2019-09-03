@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\e03f398a219d17861058c814e3c264c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\39f4e73d5199d64fddcc1a304f479164\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\602176c9c3d3f6f164def31339da0066\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\06a7edeb36033cf1627859c2e948bffd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\b2021f0c0dfbde12bbba3d6c17a074d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\965f10be4c9139b029b6fa0efde16a0f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\35cde51f5f02637d8aae88609de22aeb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4fbfc93f32875be4dc749ea4908d6387\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0d6f07ae1ce6bc411ed67c74549e1b07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0141d32a17bf1b15afa4b2bb4f50053e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c5de8d1614f996e9756742da83afc7af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a3288002adb55aa8c6fc70e85842ed6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33c686b9a0c16a7da814b794e07532b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\5893602a3e8384f80edb5e70a5479f0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c7ba62a28aabff2881fd9dad9fd19ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\d1d876fa7defe70ca93639cb6beb8f27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\2e31fd6283de42e3c02fa27215a7ebb4\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\6e3a1f0b6d4f20e64ad6afa4ded90d16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8345fce3f10fd9127dc6484742fa4200\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a6b60467335aec2787788ff1803c4fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c1f317f59ca0611baa62995318059650\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\cf726e419bcb1b045bf5f8267bd929ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\af4e6bcd6fe3431e73da10def30224f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\f6ffc2c1e1afc538e59c77e7d04f60c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4b6458a2fda9345e8cc3eab4a89674e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\1d8195bd66b9b6b8762cb46f14587804\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8cf7c45b518066b836dc5528bcc58647\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\39f4e73d5199d64fddcc1a304f479164\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\39f4e73d5199d64fddcc1a304f479164\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\2e31fd6283de42e3c02fa27215a7ebb4\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\2e31fd6283de42e3c02fa27215a7ebb4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.alog
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:12:9-51
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:12:19-39
+activity#com.example.myapplication.Pickup
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:13:19-41
+activity#com.example.myapplication.signup
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:14:19-41
+activity#com.example.myapplication.login
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:15:19-40
+activity#com.example.myapplication.MainActivity
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:20:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:24:9-26:57
+	android:resource
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml:25:13-43
+uses-sdk
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\e03f398a219d17861058c814e3c264c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\e03f398a219d17861058c814e3c264c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\39f4e73d5199d64fddcc1a304f479164\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\39f4e73d5199d64fddcc1a304f479164\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\602176c9c3d3f6f164def31339da0066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\602176c9c3d3f6f164def31339da0066\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\06a7edeb36033cf1627859c2e948bffd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\06a7edeb36033cf1627859c2e948bffd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\b2021f0c0dfbde12bbba3d6c17a074d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\b2021f0c0dfbde12bbba3d6c17a074d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\965f10be4c9139b029b6fa0efde16a0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\965f10be4c9139b029b6fa0efde16a0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\35cde51f5f02637d8aae88609de22aeb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\35cde51f5f02637d8aae88609de22aeb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4fbfc93f32875be4dc749ea4908d6387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4fbfc93f32875be4dc749ea4908d6387\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0d6f07ae1ce6bc411ed67c74549e1b07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0d6f07ae1ce6bc411ed67c74549e1b07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0141d32a17bf1b15afa4b2bb4f50053e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\0141d32a17bf1b15afa4b2bb4f50053e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c5de8d1614f996e9756742da83afc7af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c5de8d1614f996e9756742da83afc7af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a3288002adb55aa8c6fc70e85842ed6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a3288002adb55aa8c6fc70e85842ed6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33c686b9a0c16a7da814b794e07532b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33c686b9a0c16a7da814b794e07532b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\5893602a3e8384f80edb5e70a5479f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\5893602a3e8384f80edb5e70a5479f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c7ba62a28aabff2881fd9dad9fd19ba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c7ba62a28aabff2881fd9dad9fd19ba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\d1d876fa7defe70ca93639cb6beb8f27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\d1d876fa7defe70ca93639cb6beb8f27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\33177cc528a2b2432113ff59acaaa7bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\2e31fd6283de42e3c02fa27215a7ebb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\2e31fd6283de42e3c02fa27215a7ebb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\6e3a1f0b6d4f20e64ad6afa4ded90d16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\6e3a1f0b6d4f20e64ad6afa4ded90d16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8345fce3f10fd9127dc6484742fa4200\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8345fce3f10fd9127dc6484742fa4200\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a6b60467335aec2787788ff1803c4fb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\a6b60467335aec2787788ff1803c4fb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c1f317f59ca0611baa62995318059650\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\c1f317f59ca0611baa62995318059650\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\cf726e419bcb1b045bf5f8267bd929ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\cf726e419bcb1b045bf5f8267bd929ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\af4e6bcd6fe3431e73da10def30224f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\af4e6bcd6fe3431e73da10def30224f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\f6ffc2c1e1afc538e59c77e7d04f60c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\f6ffc2c1e1afc538e59c77e7d04f60c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4b6458a2fda9345e8cc3eab4a89674e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\4b6458a2fda9345e8cc3eab4a89674e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\1d8195bd66b9b6b8762cb46f14587804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\1d8195bd66b9b6b8762cb46f14587804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8cf7c45b518066b836dc5528bcc58647\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Thejus\.gradle\caches\transforms-2\files-2.1\8cf7c45b518066b836dc5528bcc58647\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thejus\AndroidStudioProjects\MyApplication9\app\src\main\AndroidManifest.xml
